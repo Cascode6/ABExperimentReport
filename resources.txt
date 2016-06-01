@@ -1,0 +1,8 @@
+Resources used: 
+
+Forum posts:
+https://discussions.udacity.com/t/struggling-with-final-project-effect-size-tests/34035/7
+https://discussions.udacity.com/t/effect-size-tests-caluclation-of-gross-conversions-confidence-interval/27181/10
+https://discussions.udacity.com/t/effect-size-tests-caluclation-of-gross-conversions-confidence-interval/27181/9
+https://discussions.udacity.com/t/final-project-effect-size-test-when-to-use-pool-se-and-when-to-use-empirical-se-to-calculate-confidence-interval/44148/2
+https://discussions.udacity.com/t/p7-calculating-standard-deviation-for-5000-sample/162120/5
