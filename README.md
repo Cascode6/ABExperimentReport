@@ -13,5 +13,5 @@ My evaluation metrics:
 - net conversion (probability of continuing the trial through 14 days based on the number of "Start Free Trial" clicks)
 
 The data was supplied by the course, but based on the provided numbers, an alpha of 0.05 and a 1-beta of 0.2, I found that
-the experiment produced the desired effect: gross conversion changed significantly from the control, and the net conversion did not change significantly (with some caveats). 
+the experiment produced the desired effect: gross conversion changed significantly from the control, and the net conversion did not change significantly, and a followup experiment is outlined.
 
